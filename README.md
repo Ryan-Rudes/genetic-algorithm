@@ -1,2 +1,1 @@
-# genetic-algorithm
-A genetic algorithm implementation
+# Genetic Algorithm
